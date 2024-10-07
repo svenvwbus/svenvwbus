@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @svenvwbus
+- 👋 Hi, I’m @svenvwbus DL1SJN
 - 👀 I’m interested in SDR-Receiver and softwaretools
 - 🌱 I’m currently learning how i can avoid the WebSDR-software from twente
 - 💞️ I’m looking to collaborate on help in programing skills
