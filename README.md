@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @svenvwbus DL1SJN
 - 👀 I’m interested in SDR-Receiver and softwaretools
-- 🌱 I’m currently learning how i can avoid the WebSDR-software from twente
+- 🌱 I’m currently learning how i can get a solution for the old WebSDR-software from twente
 - 💞️ I’m looking to collaborate on help in programing skills
 - 📫 How to reach me only on posts here in github
 - 😄 Pronouns: i'm a generalist
